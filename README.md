@@ -111,4 +111,22 @@ The New York City Airbnb 2023 Dataset provides a comprehensive overview of the c
 3. Explore the dataset and create visualizations based on the potential questions and user requirements listed above.
 
 
+## Tableau Story Feature
+
+One interesting Tableau feature not mentioned in class is the option to construct a "Story" in Tableau. A Story lets you mix various visualizations, dashboards, and other content to create a cohesive narrative or presentation.
+
+### Example Story Structure for the Airbnb Dashboard
+
+1. **Introduction:** Start with a simple visualization or text box to introduce the topic of Airbnb listings in New York City.
+2. **Neighborhood Overview:** Include the "Total neighborhoods by neighborhood groups" chart to give an overview of the distribution of neighborhoods across the different boroughs.
+3. **Room Type Breakdown:** Use the "Total bookings by neighborhood group and room type" chart to highlight the popularity of different room types (entire home/apt, private room, shared room) across the boroughs.
+4. **Price Analysis:** Incorporate the "Avg price by neighborhood group - room type: All" chart to show the average pricing for different room types across different neighborhood groups.
+5. **Top Hosts:** Present the "Top 10 hosts by total reviews" table to highlight the most popular and highly rated Airbnb hosts in NYC.
+6. **Spatial Distribution:** Include the "Avg Price per neighborhood - room type: All" scatter plot to visualize listings' spatial distribution and average prices across the city.
+7. **Temporal Trends:** Add the "Total reviews by year" and "Total bookings by month and neighborhood group - room type: All" charts to analyze the temporal trends in reviews and bookings over time.
+8. **Conclusion:** End the Story with a final summary or takeaway regarding the Airbnb market in New York City.
+
+Tableau Stories also provides extra features such as captions, annotations, and navigation buttons, which can enhance the display and storytelling experience. Creating a Story allows us to guide the viewer through the many visualizations in an organized narrative, adding context and commentary along the way. This helps present insights more effectively and ensures that our audience receives the important messages we want.
+
+
 We welcome contributions to enhance the analysis and visualizations. Please fork the repository and submit a pull request with your improvements.
